@@ -67,5 +67,4 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=el-tegy&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=el-tegy&" alt="soumyajit" />
 </div>
