@@ -16,17 +16,17 @@
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `to develop and deploy cloud-based solutions on Amazon Web Services (AWS)`
+- 🌱 I’m currently learning `to develop and deploy cloud-based solutions`.
 
-- 👯 I’m looking to collaborate for `LLM Projects`
+- 👯 I’m looking to collaborate for `LLM Projects`.
 
-- 🤔 I’m looking for help with `Competitive Data Engineering`
+- 🤔 I’m looking for help with `Competitive Data Engineering`.
 
 - 💬 Ask me about anything, Including Maths :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time playing games
+- ⚡ Fun fact: It can take up to 30 mins to comb my hair. 
 
 ## 🛠️ Technologies and Tools I use:
 
