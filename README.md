@@ -14,13 +14,13 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Something Interesting`.
 
 - 🌱 I’m currently learning `to develop and deploy cloud-based solutions`.
 
 - 👯 I’m looking to collaborate for `LLM Projects`.
 
-- 🤔 I’m looking for help with `Competitive Data Engineering`.
+- 🤔 I’m looking for help with `Industrializable Data Engineering`.
 
 - 💬 Ask me about anything, Including Maths :sweat_smile:
 
